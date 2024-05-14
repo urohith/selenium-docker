@@ -1,0 +1,11 @@
+{
+  "firstName": "mounika",
+  "lastName" : "U",
+  "email": "mounika@gmail.com",
+  "password": "password",
+  "street": "hyderabad",
+  "city": "hyderabad",
+  "zip": "500097",
+  "passengersCount": "2",
+  "expectedPrice": "$1169 USD"
+}

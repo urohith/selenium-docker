@@ -1,0 +1,7 @@
+
+x
+java:S1192W"VDefine a constant instead of duplicating this literal "arguments[0].click();" 3 times.(ò¯¼­ıÿÿÿÿ8µ…Ğ¨ó1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ÃÁùûÿÿÿÿ8¶…Ğ¨ó1
+]	java:S125X"<This block of commented-out lines of code should be removed.(Ä€ûÿÿÿÿ8Â…Ğ¨ó1
+X	java:S125Z"<This block of commented-out lines of code should be removed.(ÅÎ¶8Â…Ğ¨ó1
+W	java:S125\"<This block of commented-out lines of code should be removed.(Û‹Ÿ)8Â…Ğ¨ó1
